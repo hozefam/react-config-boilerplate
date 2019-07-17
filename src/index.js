@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
+import './style/main.scss';
 
 class Welcome extends Component {
     render () {
